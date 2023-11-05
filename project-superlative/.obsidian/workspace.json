@@ -4,14 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "f113a0b21b5da190",
+        "id": "93b04f3d1a427a48",
         "type": "tabs",
         "children": [
           {
-            "id": "ec068a4f2a391ed6",
+            "id": "fdb15bc23d3d694f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Notes/48 Laws of Power/Law 1 - Never Outshine The Master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7a4bda00e87da46",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/48 Laws of Power/Law 1 - Never Outshine The Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/48 Laws of Power/Law 1 - Never Outshine The Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/48 Laws of Power/Law 1 - Never Outshine The Master.md"
+              }
             }
           }
         ]
@@ -138,6 +154,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec068a4f2a391ed6",
-  "lastOpenFiles": []
+  "active": "fdb15bc23d3d694f",
+  "lastOpenFiles": [
+    "Notes/48 Laws of Power/Law 1 - Never Outshine The Master.md",
+    "Notable Figures/Louis XIV.md",
+    "Notable Figures/Nicolas Fouquet.md",
+    "Notbale Figures/Louis XIV.md",
+    "Notbale Figures",
+    "Louis XIV.md",
+    "Characters Nicolas Fouqet.md",
+    "Characters%2FNicolas Fouqet.md",
+    "Characters/Nicolas%2FFouqet.md",
+    "Characters/Nicolas/Fouqet.md",
+    "Characters/Nicolas",
+    "Characters/Nicolas.md",
+    "Nicolas.md",
+    "Notable Figures",
+    "Notes/48 Laws of Power",
+    "Quotes",
+    "Notes"
+  ]
 }
