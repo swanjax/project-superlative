@@ -4,7 +4,7 @@ _Always make those above you feel comfortably superior.
 In your desire to please and impress them, do not go too far in displaying your talents or you might accomplish the opposite — **Inspire fear and insecurity**. 
 Make your masters appear more brilliant than they are and you will attain the heights of power._
 ## Transgression of the Law (p. 2)
-[Nicolas Fouquet](/project-superlative/Notable%20Figures/Nicolas%20Fouquet.md) served as [Louis XIV's](Louis+XIV.md) finance minister during the early years of the monarch's reign. He was known for his extravagant lifestyle. He was clever and indispensable to the king.
+[Nicolas Fouquet](/Notable%20Figures/Nicolas%20Fouquet.md) served as [Louis XIV's](Louis+XIV.md) finance minister during the early years of the monarch's reign. He was known for his extravagant lifestyle. He was clever and indispensable to the king.
 
 When the prime minister died in 1661, Nicolas Fouquet was expected to be the successor.
 However the kind decided to abolish the position of the prime minister all together.
